@@ -16,12 +16,6 @@ const CarsList = () => {
         showsVerticalScrollIndicator={false}
       />
     </View>
-    // <CarItem
-    //   carName={"Model 3"}
-    //   carTagLine={"Order online for"}
-    //   carTagLineCTA={"Touchless Delivery"}
-    //   carImage={require("./assets/images/Model3.jpeg")}
-    //  />
   );
 }
 
