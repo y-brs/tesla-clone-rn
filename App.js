@@ -1,10 +1,11 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { StyleSheet, Text, View, ImageBackground } from "react-native";
+import CarItem from "./components/CarItem";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello, Tesla :-)</Text>
+      <CarItem />
     </View>
   );
 }
