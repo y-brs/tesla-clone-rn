@@ -1,4 +1,4 @@
-# Tesla clone react native app
+# Tesla clone app
 
 This project is made for fun I build using React Native. Some key Aspects:
 
@@ -8,6 +8,6 @@ This project is made for fun I build using React Native. Some key Aspects:
 
 Deployed live on https://snack.expo.dev/@ya-boris/github.com-ya-boris-tesla-clone-rn. Check out!
 
-![Screenshot 2021-07-24 at 20 05 53](https://user-images.githubusercontent.com/68222437/126876600-181d4454-ec38-49b3-98e1-f8d3007220bd.png)
+![Без-имени-1](https://user-images.githubusercontent.com/68222437/127327282-5459429c-f797-4441-b267-b9873af45d2e.jpg)
 
 Yooooo! 🚀 
